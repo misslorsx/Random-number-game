@@ -1,3 +1,3 @@
-# times-table-quiz
+# random number game
 
-A random number quiz - feel free to check it out and have a go! 
+A random number game - feel free to check it out and have a go! 
